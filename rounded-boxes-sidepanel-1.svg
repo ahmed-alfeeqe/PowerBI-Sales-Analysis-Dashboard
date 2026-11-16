@@ -1,0 +1,33 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+            svg .primary { fill: #ff0000; }
+            svg .secondary { fill: #ffff00; }
+            svg .primary-stroke { stroke: #ff0000; }
+            svg .secondary-stroke { stroke: #ffff00; }
+            svg .background { fill: #eeedf5; }
+            svg .frame { fill: #f6f6f6; }
+        </style>
+<rect width="1280" height="720" fill="#F5F5F5"></rect>
+<g id="White-and-grey-2">
+<rect id="16:9" width="1280" height="720" class="background"></rect>
+<g id="Rectangle 43" filter="url(#filter0_d_0_1)">
+<rect x="46" y="39" width="251" height="650" rx="9" class="primary"></rect>
+</g>
+<rect id="Rectangle 44" x="320" y="111" width="931" height="66" rx="9" fill="white"></rect>
+<rect id="Rectangle 45" x="320" y="200" width="931" height="165" rx="9" fill="white"></rect>
+<rect id="Rectangle 46" x="322" y="388" width="441" height="301" rx="9" fill="white"></rect>
+<rect id="Rectangle 47" x="786" y="388" width="465" height="301" rx="9" fill="white"></rect>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="42" y="39" width="259" height="658" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
+<feOffset dy="4"></feOffset>
+<feGaussianBlur stdDeviation="2"></feGaussianBlur>
+<feComposite in2="hardAlpha" operator="out"></feComposite>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"></feBlend>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"></feBlend>
+</filter>
+</defs>
+</svg>
